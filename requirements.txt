@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+matplotlib
+plotly
+numpy
+sqlite3-binary
